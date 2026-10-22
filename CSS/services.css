@@ -1,0 +1,43 @@
+#paragraph{
+        font-weight: bold;
+
+
+
+
+}
+
+#shipping{
+        color: rgb(219, 166, 139);
+
+
+}
+
+
+.one{ 
+        font-style: italic;
+}
+
+#VIP{
+        background-color: rgb(112, 232, 232);
+        margin: 40px;
+        padding: 30px;
+        border-radius: 20px;
+       
+}
+
+#main{
+
+        display: flex;
+
+
+}
+
+.customer{ 
+
+        background-color: rgb(173, 237, 216);
+        padding: 20px;
+        text-align: center;
+        border-radius:40px;
+
+
+}
